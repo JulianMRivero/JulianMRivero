@@ -31,7 +31,7 @@ Soy un apasionado de la tecnología y la programación. Después de estudiar muc
  
  
   <a href="riverojulian076@gmail.com">
-  riverojulian076@gmail.com
+  Gmail
   </a>
 
 
