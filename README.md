@@ -25,12 +25,10 @@ Soy un apasionado de la tecnología y la programación. Después de estudiar muc
 
 
 <h3>Contacto</h3>
-<a href="https://www.linkedin.com/in/julianmrivero/">
-    
+<a href="https://www.linkedin.com/in/julianmrivero/"> 
   LinkedIn
-  </a>
+ </a>
   <a href="riverojulian076@gmail.com">
-
   riverojulian076@gmail.com
   </a>
 
