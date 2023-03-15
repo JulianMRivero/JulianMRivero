@@ -26,12 +26,12 @@ Soy un apasionado de la tecnología y la programación. Después de estudiar muc
 
 <h3>Contacto</h3>
 <a href="https://www.linkedin.com/in/julianmrivero/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  Ignacio Peñamaria
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="15" width="15">
+  Julian Rivero
   </a>
   <a href="riverojulian076@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  ignaciopenamaria@gmail.com
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="15" width="150">
+  riverojulian076@gmail.com
   </a>
 
 
